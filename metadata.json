@@ -1,0 +1,7 @@
+{
+  "name": "智慧环卫监管中心",
+  "description": "环卫固废大数据指挥舱，集成车辆监控、人员追踪、废弃物物流及公厕感测的实时调度系统。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
